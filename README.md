@@ -1,4 +1,4 @@
-### 참조 url
+### 참조 link
 * https://github.com/bromix/typescript-jest-example
 
 ### 설치
